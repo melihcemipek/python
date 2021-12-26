@@ -1,1 +1,1 @@
-# python
+# Python ile yapılan çalışmalar
